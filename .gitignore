@@ -1,9 +1,0 @@
-venv/
-__pycache__/
-*.pyc
-*.pkl
-sample_cyber_data.csv
-scaler.joblib
-
-GirishShenoy_AI-Powered-Cybersecurity-Threat-Detection__AITools.docx
-GirishShenoy_AI-Powered-Cybersecurity-Threat-Detection__AITools.pdf
